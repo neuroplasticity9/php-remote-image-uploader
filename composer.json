@@ -10,7 +10,7 @@
     }],
     "require": {
         "php": ">=5.3",
-        "neuroplasticity9/php-http-class": "3.0.*",
+        "neuroplasticity9/php-http-class": "3.x*",
         "doctrine/cache": "^1.5"
     },
     "autoload": {
