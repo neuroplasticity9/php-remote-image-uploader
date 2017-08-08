@@ -1,5 +1,5 @@
 {
-    "name": "ptcong/php-image-uploader",
+    "name": "neuroplasticity9/php-image-uploader",
     "description": "Library for uploading image to picasa, flickr, imgur, imageshack",
     "keywords": ["php", "http", "image uploader", "remote upload"],
     "license": "MIT",
