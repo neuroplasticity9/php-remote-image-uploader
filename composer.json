@@ -10,7 +10,7 @@
     }],
     "require": {
         "php": ">=5.3",
-        "ptcong/php-http-class": "^3.0",
+        "neuroplasticity9/php-http-class": "dev-master",
         "doctrine/cache": "^1.5"
     },
     "autoload": {
